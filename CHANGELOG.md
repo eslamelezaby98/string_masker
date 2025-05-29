@@ -1,3 +1,9 @@
+## 1.0.1
+
+* Updated package metadata
+* Added repository URL
+* Documentation improvements
+
 ## 1.0.0
 
 Initial release of string_masker package.
