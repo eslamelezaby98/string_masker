@@ -1,7 +1,6 @@
 name: string_masker
 description: A Flutter package for masking and validating sensitive data like emails, phone numbers, and credit cards with built-in validation.
 version: 1.0.0
-homepage: https://github.com/eslamelezaby98/string_masker
 repository: https://github.com/eslamelezaby98/string_masker
 
 environment:
